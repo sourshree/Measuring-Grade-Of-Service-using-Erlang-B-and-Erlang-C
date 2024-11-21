@@ -8,11 +8,14 @@ Erlang B systems: The probability of a call being blocked
 Erlang C systems: This gives likelihood of a call not having immediate access
 to a channel.
 
-From the output graphs we infer that with increasing traffic intensity "A", the probability of call getting blocked also increases.
+From the first output graph of Erlan-B system, we infer that with increasing traffic intensity "A", the probability of call getting blocked also increases.
 For a fixed number of channels if the traffic intensity keeps increasing the CBP increases.
+From the secong output graph of Erlang-C system, we infer that Red curve (traffic intensity = 5 Erlangs) represents a higher traffic load, leading to a higher probability of calls being delayed (or experiencing a queue).
+Blue curve (traffic intensity = 3 Erlangs) has a lower traffic intensity which results in a smaller likelihood of calls being delayed, as the system has more capacity to handle the requests.
 
 
 ![relangb](https://github.com/user-attachments/assets/3d10509e-9358-4126-8a4d-c7a2db07694f)
 
-![image](https://github.com/user-attachments/assets/a6c3d443-5dd9-4342-9250-9b9e1fb63d6b)
+![image](https://github.com/user-attachments/assets/d1c2e7ae-e9e9-4df7-862a-71eb7a074c4a)
+
 
