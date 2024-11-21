@@ -10,7 +10,8 @@ to a channel.
 
 From the first output graph of Erlan-B system, we infer that with increasing traffic intensity "A", the probability of call getting blocked also increases.
 For a fixed number of channels if the traffic intensity keeps increasing the CBP increases.
-From the secong output graph of Erlang-C system, we infer that Red curve (traffic intensity = 5 Erlangs) represents a higher traffic load, leading to a higher probability of calls being delayed (or experiencing a queue).
+
+From the second output graph of Erlang-C system, we infer that Red curve (traffic intensity = 5 Erlangs) represents a higher traffic load, leading to a higher probability of calls being delayed (or experiencing a queue).
 Blue curve (traffic intensity = 3 Erlangs) has a lower traffic intensity which results in a smaller likelihood of calls being delayed, as the system has more capacity to handle the requests.
 
 
