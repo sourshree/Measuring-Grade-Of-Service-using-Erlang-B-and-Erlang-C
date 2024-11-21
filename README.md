@@ -7,3 +7,6 @@ In a Trunked Radio Sources (TRS), when a particular user requests service and al
 Erlang B systems: The probability of a call being blocked
 Erlang C systems: This gives likelihood of a call not having immediate access
 to a channel.
+
+From the output graphs we infer that with increasing traffic intensity "A", the probability of call getting blocked also increases.
+For a fixed number of channels if the traffic intensity keeps increasing the CBP increases.
