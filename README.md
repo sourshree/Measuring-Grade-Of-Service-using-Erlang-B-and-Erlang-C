@@ -10,3 +10,9 @@ to a channel.
 
 From the output graphs we infer that with increasing traffic intensity "A", the probability of call getting blocked also increases.
 For a fixed number of channels if the traffic intensity keeps increasing the CBP increases.
+
+
+![relangb](https://github.com/user-attachments/assets/3d10509e-9358-4126-8a4d-c7a2db07694f)
+
+![image](https://github.com/user-attachments/assets/a6c3d443-5dd9-4342-9250-9b9e1fb63d6b)
+
